@@ -1,0 +1,13 @@
+# > binance
+USER-AGENT,binance*,binance
+DOMAIN-SUFFIX,www.binance.info,binance
+DOMAIN-SUFFIX,firebaseappcheck.googleapis.com,binance
+DOMAIN-SUFFIX,www.binance.com,binance
+DOMAIN-SUFFIX,launches.appsflyer.com,binance
+DOMAIN-SUFFIX,h-sdk.online-metrix.net,binance
+DOMAIN-SUFFIX,c.riskified.com,binance
+DOMAIN-SUFFIX,static-file-1306379396.file.myqcloud.com,binance
+DOMAIN-SUFFIX,api3.siftscience.com,binance
+DOMAIN-SUFFIX,report.bntrace.com,binance
+DOMAIN-SUFFIX,www.mokexapp.cloud,binance
+DOMAIN-SUFFIX,log.bntrace.com,binance
